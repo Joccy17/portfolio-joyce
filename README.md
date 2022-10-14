@@ -1,5 +1,6 @@
 # Portfolio
-This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills
+This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills.
+
 Checkout [Live Demo](https://portfolio-joyce.olufunsojoyce.repl.co/) over here !!
 # Screenshot:<img width="1464" alt="Screen Shot 2022-10-08 at 1 07 06 AM" src="https://user-images.githubusercontent.com/106774470/194691964-ef725147-0dff-4860-a5f4-e4b00c6f0be9.png">
 
